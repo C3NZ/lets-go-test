@@ -1,5 +1,4 @@
-# Project title
-lets go test
+# Lets go test
 
 ## Description
 This repository is for learning how to effectively test and benchmark golang programs!
